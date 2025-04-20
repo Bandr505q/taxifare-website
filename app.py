@@ -5,7 +5,7 @@ from datetime import datetime
 st.title("🚕 TaxiFareModel front")
 
 
-st.markdown("![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpoZzFlNzc3M3VremNrczJrNG5xeXFxbXY4d21ubW1jbDNlbXp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgH6yHFC3pEsM/giphy.gif)")
+st.markdown("![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd6aHpwdHF4d3FxazVtdG9ramh4Zm9kcmxzODdzMTZuZm15dXlrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10bxTLrpJNS0PC/giphy.gif)")
 
 
 st.markdown('''
