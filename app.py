@@ -4,6 +4,10 @@ from datetime import datetime
 
 st.title("🚕 TaxiFareModel front")
 
+
+st.markdown("![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGpoZzFlNzc3M3VremNrczJrNG5xeXFxbXY4d21ubW1jbDNlbXp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CgH6yHFC3pEsM/giphy.gif)")
+
+
 st.markdown('''
 Remember that there are several ways to output content into your web page...
 
